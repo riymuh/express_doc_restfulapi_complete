@@ -5,6 +5,7 @@ const { logger, logEvents } = require("./middleware/logEvents");
 const errorHandler = require("./middleware/errorHandler");
 const PORT = process.env.PORT || 3500;
 const cors = require("cors");
+const corsOptions = require("./config/corsOptions");
 var bodyParser = require("body-parser");
 
 // parse application/x-www-form-urlencoded
@@ -25,22 +26,8 @@ const employee = require("./routes/api/employee");
 // });
 //anonymous function app.use(test())
 app.use(logger);
+
 //cross origin resource sharing
-const whitelist = [
-  "https://www.google.com",
-  "http://127.0.0.1:3500",
-  "http://localhost:3500",
-];
-const corsOptions = {
-  origin: (origin, callback) => {
-    if (whitelist.indexOf(origin) != -1 || !origin) {
-      callback(null, true);
-    } else {
-      callback(new Error("Not allowed by cors"));
-    }
-  },
-  optionSuccessStatus: 200,
-};
 app.use(cors(corsOptions));
 
 //with router
