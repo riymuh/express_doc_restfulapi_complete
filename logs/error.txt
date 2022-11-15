@@ -1,1 +1,47 @@
 20221112	23:01:15	083fee40-b2b8-4e53-b499-d954ec5e8a72	Error: Not allowed by cors
+20221113	09:12:13	20221321-592b-49ed-9f20-2454785aa820	ReferenceError: employee is not defined
+20221113	09:13:00	1cdcf417-9246-4f48-b8bb-2f2e78913d13	ReferenceError: employee is not defined
+20221113	09:14:27	7e2a4b14-3dd2-43b0-8124-cbf22f53cd6d	ReferenceError: employee is not defined
+20221113	09:15:19	03607b72-14d4-4f0c-887b-6d9c16fe3ff9	ReferenceError: employee is not defined
+20221113	09:22:11	08fe4f0e-21e3-4a02-a5a9-9e287d89bdaf	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+20221113	09:22:26	bca97b13-3dc9-46d0-b901-b2987f1f0d4c	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+20221113	09:22:51	fcfee06c-9a65-43b8-860b-69a44609eba6	TypeError: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+20221113	09:25:16	d1e928f2-1953-4811-9135-b21f059a9032	TypeError: Cannot read properties of undefined (reading 'firstname')
+20221113	09:25:17	7c8b5eff-c4b4-41d2-bfb9-78746b01323e	TypeError: Cannot read properties of undefined (reading 'firstname')
+20221113	09:25:20	0a812b22-7965-4c3c-a2f4-b55b9c41dec5	TypeError: Cannot read properties of undefined (reading 'firstname')
+20221113	09:25:21	e4e84f80-7273-4cbd-a9bc-e3721cd5911e	TypeError: Cannot read properties of undefined (reading 'firstname')
+20221113	09:25:26	6bd61aa6-c2d9-4a19-85ff-ad3b6a404f91	TypeError: Cannot read properties of undefined (reading 'firstname')
+20221113	09:25:26	3ef69f46-caf2-49fb-ad83-38a5ed9ae185	TypeError: Cannot read properties of undefined (reading 'firstname')
+20221113	09:25:35	ca382a30-77ca-49e6-b189-ab764a1b01b5	TypeError: Cannot read properties of undefined (reading 'firstname')
+20221113	09:26:40	11eab587-feb6-4a6d-94f0-a3cd78ceb081	TypeError: Cannot read properties of undefined (reading 'firstname')
+20221113	09:26:41	4e3cefd9-2c12-466e-b70d-d1b84b84d702	TypeError: Cannot read properties of undefined (reading 'firstname')
+20221113	09:27:37	5c70a5ea-0069-4378-962d-a608c16b2c6b	TypeError: Cannot read properties of undefined (reading 'firstname')
+20221113	09:27:38	6a5a27dc-afda-4b9b-aa75-0c6e0c41a80e	TypeError: Cannot read properties of undefined (reading 'firstname')
+20221113	09:27:38	d8049e29-7a9b-4b70-89d8-27742ef7db5e	TypeError: Cannot read properties of undefined (reading 'firstname')
+20221113	09:27:39	cd041811-c092-4ff4-bdb1-19d2c9bc5a85	TypeError: Cannot read properties of undefined (reading 'firstname')
+20221113	09:29:11	0e9fb461-7695-4200-9050-090a45f0bfb4	TypeError: Cannot read properties of undefined (reading 'firstname')
+20221113	09:29:11	55d62c39-cce3-4cd7-874f-511d766b8c84	TypeError: Cannot read properties of undefined (reading 'firstname')
+20221113	09:29:12	b9b493ff-5c34-409b-98d9-19b128d31c82	TypeError: Cannot read properties of undefined (reading 'firstname')
+20221113	09:29:12	5a0ea4a5-1da4-4a80-ab94-9fe8610f30bd	TypeError: Cannot read properties of undefined (reading 'firstname')
+20221113	09:29:12	80b7ba6a-31d0-4fa3-bcb0-008493ffac95	TypeError: Cannot read properties of undefined (reading 'firstname')
+20221113	09:29:12	a90394c3-06c7-4e95-9fec-6325a13a5177	TypeError: Cannot read properties of undefined (reading 'firstname')
+20221113	09:29:13	0c522b20-8780-41bb-80ba-23e7ac58bb4c	TypeError: Cannot read properties of undefined (reading 'firstname')
+20221113	09:29:23	7ec1d3cc-f2a9-4527-b69c-09b2c6c4a5ef	TypeError: Cannot read properties of undefined (reading 'id')
+20221113	09:29:24	46b66bf7-ff22-487f-a3e1-e1ab1aa2745c	TypeError: Cannot read properties of undefined (reading 'id')
+20221113	09:29:51	76a1c338-f40b-48ed-aa39-46a972476869	TypeError: Cannot read properties of undefined (reading 'id')
+20221113	09:29:52	67e9f9c5-da9f-4797-b5f1-a20c4d30c496	TypeError: Cannot read properties of undefined (reading 'id')
+20221113	09:29:52	479b29d6-43e3-449c-8cb1-062804f00130	TypeError: Cannot read properties of undefined (reading 'id')
+20221113	09:29:53	2f4b79d9-ea8d-41ab-b78d-8c8073a64468	TypeError: Cannot read properties of undefined (reading 'id')
+20221113	09:29:53	579e0588-5ed8-4115-981f-f858f19602da	TypeError: Cannot read properties of undefined (reading 'id')
+20221113	09:30:36	ec5e2168-9d4f-430c-b963-3ee5ae23072e	TypeError: Cannot read properties of undefined (reading 'id')
+20221113	09:33:36	a14533b2-dc83-4d64-ab15-a7308942c08c	TypeError: Cannot read properties of undefined (reading 'id')
+20221113	09:33:37	a290560a-3ee7-4051-bb71-e0af18a1726f	TypeError: Cannot read properties of undefined (reading 'id')
