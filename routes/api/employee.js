@@ -20,4 +20,6 @@ router.post("/", employeeController.addNewEmployee);
 
 router.get("/:id", employeeController.getEmployee);
 
+router.patch("/:id", employeeController.updateEmployee);
+
 module.exports = router;

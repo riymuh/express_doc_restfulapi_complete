@@ -45,3 +45,7 @@
 20221113	09:30:36	ec5e2168-9d4f-430c-b963-3ee5ae23072e	TypeError: Cannot read properties of undefined (reading 'id')
 20221113	09:33:36	a14533b2-dc83-4d64-ab15-a7308942c08c	TypeError: Cannot read properties of undefined (reading 'id')
 20221113	09:33:37	a290560a-3ee7-4051-bb71-e0af18a1726f	TypeError: Cannot read properties of undefined (reading 'id')
+20221116	22:09:15	d6423345-f541-4918-b742-db43324959bb	ReferenceError: employees is not defined
+20221116	22:10:43	5367087a-5ed1-493b-8a1c-4e6f4a213bad	TypeError: data.employees.newEmployee is not iterable
+20221116	22:13:21	3f186830-87e9-427d-a4d5-0ac78654c26f	TypeError: 1 is not a function
+20221116	22:23:48	b4554789-cdbf-4b00-bbfe-b5ebf5ca0543	TypeError: Cannot set properties of undefined (setting 'firstname')
